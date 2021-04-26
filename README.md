@@ -23,7 +23,8 @@
 ### Commands 🛠
 #### For all in group
 
-- `/play <song name>` - play song you requested
+- `/ply reply in any audio` - Play audio you requested 
+- `/play <song name>` - play song you requested 
 - `/dplay <song name>` - play song you requested via deezer
 - `/splay <song name>` - play song you requested via jio saavn
 - `/playlist` - Show now playing list
