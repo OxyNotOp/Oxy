@@ -867,7 +867,7 @@ async def help(client: Client, message: Message):
                         "🚑 Support Group", url="https://t.me/OxyXsupport"
                     ),
                     InlineKeyboardButton(
-                        "➕Add CoffinX in your group➕", url="https://t.me/Music_op_bot?startgroup=true"
+                        "➕Add OxyXmusic in your group➕", url="https://t.me/Music_op_bot?startgroup=true"
                     )
                 ]
             ]
