@@ -31,14 +31,14 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/CoffinX_updates"
+                        "🔊 Channel", url="https://t.me/OxyXupdates"
                     )
                 ],[
                     InlineKeyboardButton(
-                        "🚑 Support Group", url="https://t.me/CoffinXsupport"
+                        "🚑 Support Group", url="https://t.me/OxyXsupport"
                     ),
                     InlineKeyboardButton(
-                        "➕Add CoffinX in your group➕", url="https://t.me/CoffinXmusic_BoT?startgroup=true"
+                        "➕Add OxyXmusic in your group➕", url="https://t.me/music_op_bot?startgroup=true"
                     )
                 ]
             ]
