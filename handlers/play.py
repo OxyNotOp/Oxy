@@ -837,7 +837,7 @@ async def help(client: Client, message: Message):
         f"""<b>Here Is Cmd Of OxyXmusic !
 ╭──────•◈•──────╮
 \n/ply <audio or link> - play audio or link you requested
-\n/play <song name> - play song you requested
+/play <song name> - play song you requested
 /dplay <song name> - play song you requested via deezer
 /splay <song name> - play song you requested via jio saavn
 /playlist - Show now playing list
