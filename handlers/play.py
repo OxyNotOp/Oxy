@@ -836,6 +836,7 @@ async def help(client: Client, message: Message):
     await message.reply_text(
         f"""<b>Here Is Cmd Of OxyXmusic !
 ╭──────•◈•──────╮
+\n/ply <audio or link> - play audio or link you requested
 \n/play <song name> - play song you requested
 /dplay <song name> - play song you requested via deezer
 /splay <song name> - play song you requested via jio saavn
