@@ -854,7 +854,8 @@ async def help(client: Client, message: Message):
 /skip - play next song
 /end - stop music play
 /userbotjoin - invite assistant to your chat
-\n/admincache - Refresh admin list
+/admincache - Refresh admin list
+
 ╰──────•◈•──────╯
  </b>""",
         reply_markup=InlineKeyboardMarkup(
